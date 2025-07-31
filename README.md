@@ -4,7 +4,7 @@ Interfaz web construida en **Vue 3 + Vite + Tailwind CSS**, diseñada para el m�
 
 ---
 
-## 🚀 Tecnologías usadas
+## Tecnologías usadas
 
 - [Vue 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
